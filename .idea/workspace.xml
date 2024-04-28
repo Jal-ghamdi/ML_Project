@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dab6e9e8-32ad-4399-b3ab-459fbb1e2780" name="Default Changelist" comment="End to End ML Project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2fgMWZ6jQ5Dl0KBNQJfET9sT68h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab6e9e8-32ad-4399-b3ab-459fbb1e2780" name="Default Changelist" comment="" />
+      <created>1714218300412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714218300412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="End to End ML Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="End to End ML Project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="28" key="CommitChangelistDialog2" timestamp="1714260908763">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="353" y="28" key="CommitChangelistDialog2/0.23.1440.800@0.23.1440.800" timestamp="1714260908763" />
+    <state x="399" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1714261545717">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="399" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1714261545717" />
+    <state x="509" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1714260917731">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="509" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.800@0.23.1440.800" timestamp="1714260917731" />
+  </component>
+</project>
