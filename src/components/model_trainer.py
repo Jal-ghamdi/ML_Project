@@ -13,7 +13,7 @@ from src.utils import save_object
 from src.utils import evaluate_model
 @dataclass
 class ModelTrainerConfig:
-    trained_model_file_path = os.path.join('artificat', 'model.pkl')
+    trained_model_file_path = os.path.join('artifact', 'model.pkl')
 
 class ModelTrainer:
     def __init__(self):
