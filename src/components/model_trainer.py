@@ -37,8 +37,30 @@ class ModelTrainer:
                 "AB": AdaBoostRegressor()
             }
 
+            params = {
+                "DT": {
+                    'criterion': ['squared_error', 'friedman_mse', 'absolute_error', 'poisson']
+                },
+                "RF": {
+                    'n_estimators': [8, 16, 32, 64, 128, 256]
+                },
+                "GB": {
+                    'learning_rate': [.1, .01, .05, .001],
+                    'subsample': [0.6, 0.7, 0.75, 0.8, 0.85, 0.9],
+                    'n_estimators': [8, 16, 32, 64, 128, 256]
+                },
+                "LR": {},
+                "KNN": {
+                    'n_neighbors': [5, 7, 9, 11]
+                },
+                "AB": {
+                    'learning_rate': [.1, .01, 0.5, .001],
+                    'n_estimators': [8, 16, 32, 64, 128, 256]
+                }
+            }
+
             model_report: dict = evaluate_model(
-                x_train=x_train, y_train=y_train, x_test=x_test, y_test=y_test, models=models)
+                x_train=x_train, y_train=y_train, x_test=x_test, y_test=y_test, models=models, param=params)
 
             best_model_score = max(sorted(model_report.values()))
 
