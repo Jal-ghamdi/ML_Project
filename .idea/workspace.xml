@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab6e9e8-32ad-4399-b3ab-459fbb1e2780" name="Default Changelist" comment="End to End ML Project">
-      <change beforePath="$PROJECT_DIR$/artificat/model.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/artifact/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/preprocessor.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/artifact/preprocessor.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/artifact/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/artifact/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/data/StudentsPerformance.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data_ingestion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/data_transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data_transformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/model_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/model_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pipeline/predict_pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pipeline/predict_pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,6 +46,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -183,9 +195,9 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="509" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.800@0.23.1440.800" timestamp="1714260917731" />
-    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1714986338923">
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1715076412973">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1714986338923" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1715076412973" />
   </component>
 </project>
